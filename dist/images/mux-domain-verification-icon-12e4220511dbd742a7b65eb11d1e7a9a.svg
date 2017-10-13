@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="13px" viewBox="0 0 12 13" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M419.673551,53.0880163 L420.240766,47.4158734 C418.938052,46.9756962 418,45.7421007 418,44.2941176 C418,42.4748267 419.482068,41 421.294071,41 L421.294118,43.4705882 L422.117647,43.4705882 L422.117647,41 C423.936959,41 425.411765,42.4785286 425.411765,44.2941176 C425.411765,45.7440309 424.470422,46.975156 423.170942,47.4153067 L423.738213,53.0880163 C423.755646,53.1742645 423.764706,53.2627564 423.764706,53.3529412 C423.764706,54.2625866 422.842939,55 421.705882,55 C420.568826,55 419.647059,54.2625866 419.647059,53.3529412 C419.647059,53.2627564 419.656119,53.1742645 419.673551,53.0880163 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="7.41176471" height="14" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="域名设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="申请域名－初次" transform="translate(-635.000000, -253.000000)" stroke="#005999" stroke-width="2">
+            <g id="Group-4-Copy-4" transform="translate(220.000000, 212.000000)">
+                <use id="Combined-Shape" mask="url(#mask-2)" transform="translate(421.705882, 48.000000) rotate(-40.000000) translate(-421.705882, -48.000000) " xlink:href="#path-1"></use>
+            </g>
+        </g>
+    </g>
+</svg>
