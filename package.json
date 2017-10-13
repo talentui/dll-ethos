@@ -4,6 +4,12 @@
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
+    "@beisen/accordion": "^0.0.9",
+    "@talentui/dll-react": "^1.0.0",
     "@talentui/dll-webpack-config": "^1.0.1"
+  },
+  "scripts": {
+    "build": "webpack",
+    "build-prod": "NODE_ENV=production webpack"
   }
 }
