@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="12px" height="14px" viewBox="0 0 12 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Rectangle 231x</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M946,533.005859 C946,531.898054 946.892979,531 947.991517,531 L954.05659,531 L954.608295,531.56777 C955.376912,532.358769 956.621849,533.63721 957.399934,534.434514 L958,535.049402 L958,542.998318 C958,544.103816 957.09805,545 955.99147,545 L948.00853,545 C946.89925,545 946,544.10294 946,542.994141 L946,533.005859 Z" id="path-1"></path>
+        <mask id="mask-2" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="0" y="0" width="12" height="14" fill="white">
+            <use xlink:href="#path-1"></use>
+        </mask>
+    </defs>
+    <g id="Pagebuilder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="属性面板-常用链接组件" transform="translate(-946.000000, -531.000000)" stroke="#8F9CA6" stroke-width="2">
+            <use id="Rectangle-23" mask="url(#mask-2)" xlink:href="#path-1"></use>
+        </g>
+    </g>
+</svg>

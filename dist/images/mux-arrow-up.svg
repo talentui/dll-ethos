@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="6px" viewBox="0 0 11 6" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icon收起</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1166" y="50" width="200" height="718"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Pagebuilder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-pagebuilder界面" transform="translate(-1341.000000, -63.000000)">
+            <g id="属性面板-bg1">
+                <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                <use fill="#F5F8FA" fill-rule="evenodd" xlink:href="#path-1"></use>
+            </g>
+            <g id="外观设置" transform="translate(1176.000000, 56.000000)" fill="#66757F">
+                <path d="M172.809672,13.7253092 C173.063383,14.0164152 173.064209,14.4874435 172.807548,14.7819344 C172.552663,15.0743863 172.135745,15.070177 171.886653,14.7843715 L168.190328,10.5432481 C168.059884,10.3935779 167.996289,10.1963463 168.000167,10 C167.996289,9.80365374 168.059884,9.60642214 168.190328,9.45675186 L171.886653,5.2156285 C172.135745,4.92982298 172.552663,4.92561366 172.807548,5.21806563 C173.064209,5.51255653 173.063383,5.98358479 172.809672,6.27469078 L169.562902,10 L172.809672,13.7253092 Z" id="icon收起" transform="translate(170.500000, 10.000000) scale(1, -1) rotate(-90.000000) translate(-170.500000, -10.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

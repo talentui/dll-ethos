@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="5px" viewBox="0 0 12 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="800" height="614" rx="2"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0117647059   0 0 0 0 0.062745098   0 0 0 0 0.101960784  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="300" height="444" rx="2"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="302" height="446">
+            <rect x="-1" y="-1" width="302" height="446" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="302" height="446">
+            <rect x="-1" y="-1" width="302" height="446" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="菜单设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="移动端交互" transform="translate(-2275.000000, -1743.000000)">
+            <g id="新建自定义菜单2-copy" transform="translate(1790.000000, 1428.000000)">
+                <g id="Rectangle-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="已选菜单" transform="translate(420.000000, 76.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask" stroke="#E4EBF0" mask="url(#mask-4)" stroke-width="2">
+                        <use mask="url(#mask-6)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="已选菜单内容" mask="url(#mask-5)">
+                        <g transform="translate(0.000000, 1.000000)">
+                            <g id="分割线"></g>
+                            <g id="文字" transform="translate(63.000000, 6.000000)"></g>
+                            <g id="首屏图标" transform="translate(63.000000, 40.000000)">
+                                <g id="数字" transform="translate(0.000000, 58.000000)" fill="#1687D9">
+                                    <path d="M5,143 L13.4903505,143 C13.7723472,143 14,142.776142 14,142.5 C14,142.231934 13.7718221,142 13.4903505,142 L5,142 L5,140.999807 C5,140.447629 4.64077949,140.266076 4.19308071,140.597689 L2.32782307,141.979293 C1.88217386,142.309387 1.89322802,142.836287 2.34540102,143.151203 L4.17550276,144.425779 C4.63086001,144.742912 5,144.556283 5,144.000193 L5,143 Z" id="Combined-Shape" transform="translate(7.999922, 142.505897) scale(-1, 1) translate(-7.999922, -142.505897) "></path>
+                                    <text id="2" font-family="HelveticaNeue-Medium, Helvetica Neue" font-size="12" font-weight="400" line-spacing="20">
+                                        <tspan x="4" y="136">2</tspan>
+                                    </text>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
