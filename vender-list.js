@@ -29,4 +29,5 @@ module.exports=[
   "@beisen/tree",
   "@beisen/upaas-portal-common-css",
   "@beisen/user-selector",
+  "@beisen/calendar"
 ]
