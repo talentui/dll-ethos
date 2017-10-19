@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="16px" height="8px" viewBox="0 0 16 8" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icons-sys-arrowup-nomal2</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="工作页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页-全部" transform="translate(-347.000000, -319.000000)">
+            <g id="icons-sys-arrowup-nomal2" transform="translate(355.000000, 323.000000) scale(1, -1) translate(-355.000000, -323.000000) translate(347.000000, 315.000000)">
+                <polygon id="bg" opacity="0" points="0 0 16 0 16 16 0 16 0 0"></polygon>
+                <path d="M5.19429835,8.00232348 L11.8548429,0.901910707 C12.0483857,0.695586156 12.0483857,0.361067964 11.8548429,0.154743413 C11.6613001,-0.0515811378 11.3475052,-0.0515811378 11.1539624,0.154743413 L4.14515711,7.62641635 C3.9516143,7.8327409 3.9516143,8.1672591 4.14515711,8.37358365 L11.1539624,15.8452566 C11.3475052,16.0515811 11.6613001,16.0515811 11.8548429,15.8452566 C12.0483857,15.638932 12.0483857,15.3044138 11.8548429,15.0980893 L5.19429835,8.00232348 Z" id="Rectangle-33-Copy-2" fill="#9DA1A3" fill-rule="nonzero" transform="translate(8.000000, 8.000000) rotate(90.000000) translate(-8.000000, -8.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
