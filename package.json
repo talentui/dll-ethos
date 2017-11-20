@@ -50,7 +50,8 @@
     "react": "^16.1.1"
   },
   "scripts": {
-    "build": "webpack",
-    "build-prod": "NODE_ENV=production webpack"
+    "build": "rm -rf ./dist/ &&  webpack",
+    "build-prod": "rm -rf ./dist/ &&  NODE_ENV=production webpack",
+    "prepublish": "yarn build && yarn build-prod"
   }
 }
