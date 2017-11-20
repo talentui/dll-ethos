@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="7px" viewBox="0 0 10 7" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>组件列表展开</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Pagebuilder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="1-pagebuilder界面" transform="translate(-8.000000, -116.000000)" fill="#8F9CA6">
+            <g id="通用组件" transform="translate(0.000000, 102.000000)">
+                <path d="M12.428621,14.3405541 C12.7415238,13.8837274 13.2526186,13.889245 13.5617421,14.3405541 L16.9746063,19.3232124 C17.2875091,19.7800391 17.1026422,20.1503703 16.5334283,20.1503703 L9.45693476,20.1503703 C8.90037615,20.1503703 8.7066333,19.7745216 9.01575679,19.3232124 L12.428621,14.3405541 Z" id="组件列表展开" transform="translate(12.997369, 17.075185) rotate(180.000000) translate(-12.997369, -17.075185) "></path>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 9</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="工作页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作页-无统计" transform="translate(-212.000000, -306.000000)">
+            <g id="Group-15" transform="translate(12.000000, 192.000000)">
+                <g id="Group-5" transform="translate(0.000000, 12.000000)">
+                    <g id="Group-2-Copy-6" transform="translate(176.000000, 88.000000)">
+                        <g id="Group-9" transform="translate(24.000000, 14.000000)">
+                            <rect id="Rectangle-2" fill="#38B6FF" x="2.77555756e-15" y="0" width="40" height="40" rx="10"></rect>
+                            <path d="M21,20.3786797 L21,16.5016756 C21,15.6711894 20.3284271,15 19.5,15 C18.6657972,15 18,15.6723231 18,16.5016756 L18,20.4983244 C18,20.7948847 18.0856356,21.0711323 18.2334693,21.3037583 C18.2510981,21.6643922 18.3987135,22.0200338 18.6749237,22.2962441 L22.2037559,25.8250763 C22.7951965,26.4165169 23.7426407,26.4142136 24.3284271,25.8284271 C24.9182976,25.2385567 24.9127133,24.291393 24.3250763,23.7037559 L21,20.3786797 Z M20,32 C13.372583,32 8,26.627417 8,20 C8,13.372583 13.372583,8 20,8 C26.627417,8 32,13.372583 32,20 C32,26.627417 26.627417,32 20,32 Z" id="考勤" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

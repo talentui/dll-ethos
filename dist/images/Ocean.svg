@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="40px" height="40px" viewBox="0 0 40 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 43.1 (39012) - http://www.bohemiancoding.com/sketch -->
+    <title>Group 18</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="工作页" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="工作页-无统计" transform="translate(-36.000000, -394.000000)">
+            <g id="Group-15" transform="translate(12.000000, 192.000000)">
+                <g id="Group-5" transform="translate(0.000000, 12.000000)">
+                    <g id="Group-2-Copy-8" transform="translate(0.000000, 176.000000)">
+                        <g id="Group-18" transform="translate(24.000000, 14.000000)">
+                            <rect id="Rectangle-2" fill="#8A92FF" x="2.77555756e-15" y="0" width="40" height="40" rx="10"></rect>
+                            <path d="M10.1176967,19.3851466 L17.963097,21.4772534 C20.1086849,22.0494102 21.2488819,20.8141768 20.5247612,18.7222727 L17.6818133,10.5093121 C18.7288402,10.1784489 19.8435806,10 21,10 C27.0751322,10 32,14.9248678 32,21 C32,27.0751322 27.0751322,32 21,32 C14.9248678,32 10,27.0751322 10,21 C10,20.4514095 10.0401587,19.9121986 10.1176967,19.3851466 Z M15.0611598,9 L18.3690808,18.5562164 C18.5508839,19.0814253 18.263813,19.3913375 17.7259305,19.2479022 L7.95507961,16.642342 C8.90605649,13.0669688 11.5944411,10.1998303 15.0611598,9 Z" id="ocean" fill="#FFFFFF"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

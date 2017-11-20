@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg width="10px" height="5px" viewBox="0 0 10 5" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 3.7.1 (28215) - http://www.bohemiancoding.com/sketch -->
+    <title>icons-sys-arrowdownM7-disabled</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" fill-opacity="0.95" opacity="0.3">
+        <g id="系统图标" transform="translate(-605.000000, -137.000000)" fill="#FFFFFF">
+            <g id="disabled" transform="translate(118.000000, 131.000000)">
+                <g id="icons-sys-arrowdownM7-disabled" transform="translate(487.000000, 6.000000)">
+                    <path d="M7.30967174,6.22530922 C7.56338333,6.51641521 7.56420937,6.98744347 7.30754768,7.28193437 C7.052663,7.57438634 6.63574468,7.57017702 6.38665267,7.2843715 L2.69032826,3.04324814 C2.55988406,2.89357786 2.49628856,2.69634626 2.50016724,2.5 C2.49628856,2.30365374 2.55988406,2.10642214 2.69032826,1.95675186 L6.38665267,-2.2843715 C6.63574468,-2.57017702 7.052663,-2.57438634 7.30754768,-2.28193437 C7.56420937,-1.98744347 7.56338333,-1.51641521 7.30967174,-1.22530922 L4.06290189,2.5 L7.30967174,6.22530922 Z" id="95%" transform="translate(5.000000, 2.500000) rotate(-90.000000) translate(-5.000000, -2.500000) "></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

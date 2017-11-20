@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200px" height="1px" viewBox="0 0 200 1" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Line</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="1" y="1" width="200" height="718"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="0.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.2 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <linearGradient x1="100%" y1="50%" x2="0%" y2="50%" id="linearGradient-3">
+            <stop stop-color="#F5F8FA" offset="0%"></stop>
+            <stop stop-color="#C3CBD1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Pagebuilder" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="4-属性面板-今日工作" transform="translate(-169.000000, -91.000000)">
+            <g id="属性面板" transform="translate(169.000000, 19.000000)">
+                <g id="bg">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#F5F8FA" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <rect id="bg" fill="#FFFFFF" x="1" y="32" width="200" height="108"></rect>
+                <polygon id="Line" fill="url(#linearGradient-3)" fill-rule="nonzero" points="1.13687651e-13 73 200 73 200 72 0 72"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

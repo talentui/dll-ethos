@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="12px" viewBox="0 0 18 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>选中</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="菜单设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互" transform="translate(-113.000000, -362.000000)">
+            <g id="新建菜单" transform="translate(68.000000, 318.000000)">
+                <g id="icons-sys-Checkbox-active" transform="translate(0.000000, 6.000000)"></g>
+            </g>
+            <path d="M118.603076,372.929228 L119.357524,373.686497 C119.777615,374.108158 120.453624,374.102698 120.873929,373.680823 L130.682503,363.835577 C131.104429,363.412074 131.105339,362.732245 130.688156,362.313503 C130.268066,361.891842 129.592057,361.897302 129.171752,362.319177 L120.1129,371.411898 L114.823417,366.102639 C114.407029,365.684695 113.731703,365.685759 113.314521,366.104501 C112.89443,366.526163 112.896508,367.201325 113.312666,367.619039 L118.603076,372.929228 L118.603076,372.929228 Z" id="选中" fill="#36B336"></path>
+        </g>
+    </g>
+</svg>

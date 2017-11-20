@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="12px" height="12px" viewBox="0 0 12 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="800" height="614" rx="2"></rect>
+        <filter x="-50%" y="-50%" width="200%" height="200%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="10" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0117647059   0 0 0 0 0.062745098   0 0 0 0 0.101960784  0 0 0 0.3 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <rect id="path-3" x="0" y="0" width="300" height="444" rx="2"></rect>
+        <mask id="mask-4" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="302" height="446">
+            <rect x="-1" y="-1" width="302" height="446" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+        <mask id="mask-6" maskContentUnits="userSpaceOnUse" maskUnits="objectBoundingBox" x="-1" y="-1" width="302" height="446">
+            <rect x="-1" y="-1" width="302" height="446" fill="white"></rect>
+            <use xlink:href="#path-3" fill="black"></use>
+        </mask>
+    </defs>
+    <g id="菜单设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="移动端交互" transform="translate(-2220.000000, -1921.000000)">
+            <g id="新建自定义菜单2-copy" transform="translate(1790.000000, 1428.000000)">
+                <g id="Rectangle-6">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                </g>
+                <g id="已选菜单" transform="translate(420.000000, 76.000000)">
+                    <mask id="mask-5" fill="white">
+                        <use xlink:href="#path-3"></use>
+                    </mask>
+                    <g id="Mask" stroke="#E4EBF0" mask="url(#mask-4)" stroke-width="2">
+                        <use mask="url(#mask-6)" xlink:href="#path-3"></use>
+                    </g>
+                    <g id="已选菜单内容" mask="url(#mask-5)">
+                        <g transform="translate(0.000000, 1.000000)">
+                            <g id="分割线"></g>
+                            <g id="拖拽" transform="translate(10.000000, 42.000000)">
+                                <path d="M0,372.5 C0,372.223858 0.219906569,372 0.498267412,372 L13.5017326,372 C13.7769181,372 14,372.231934 14,372.5 C14,372.776142 13.7800934,373 13.5017326,373 L0.498267412,373 C0.223081919,373 0,372.768066 0,372.5 Z M0,377.5 C0,377.223858 0.219906569,377 0.498267412,377 L13.5017326,377 C13.7769181,377 14,377.231934 14,377.5 C14,377.776142 13.7800934,378 13.5017326,378 L0.498267412,378 C0.223081919,378 0,377.768066 0,377.5 Z M0,382.5 C0,382.223858 0.219906569,382 0.498267412,382 L13.5017326,382 C13.7769181,382 14,382.231934 14,382.5 C14,382.776142 13.7800934,383 13.5017326,383 L0.498267412,383 C0.223081919,383 0,382.768066 0,382.5 Z" id="Combined-Shape" fill="#C2CBD1"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <g id="新建" mask="url(#mask-5)">
+                        <g transform="translate(0.000000, 404.000000)">
+                            <rect id="Rectangle-5" fill="#FFFFFF" x="0" y="0" width="300" height="40"></rect>
+                            <path d="M15,18 L11.0024733,18 C10.455761,18 10,18.4477153 10,19 C10,19.5561352 10.4488226,20 11.0024733,20 L15,20 L15,23.9975267 C15,24.544239 15.4477153,25 16,25 C16.5561352,25 17,24.5511774 17,23.9975267 L17,20 L20.9975267,20 C21.544239,20 22,19.5522847 22,19 C22,18.4438648 21.5511774,18 20.9975267,18 L17,18 L17,14.0024733 C17,13.455761 16.5522847,13 16,13 C15.4438648,13 15,13.4488226 15,14.0024733 L15,18 Z" id="Combined-Shape" fill="#1687D9"></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>icons-sys-cuowu-nomal-small</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="域名设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Artboard" transform="translate(-481.000000, -504.000000)">
+            <g id="输入框-copy-2" transform="translate(82.000000, 466.000000)">
+                <g id="icons-sys-cuowu-nomal-small" transform="translate(399.000000, 38.000000)">
+                    <ellipse id="Oval-9-Copy" fill="#CC2929" cx="8" cy="8" rx="8" ry="8"></ellipse>
+                    <g id="×" transform="translate(8.000000, 8.000000) rotate(-315.000000) translate(-8.000000, -8.000000) translate(4.000000, 4.000000)" fill="#FFFFFF">
+                        <path d="M4.57142857,3.42857143 L4.57142857,0.575340271 C4.57142857,0.248196602 4.31559129,-4.4408921e-14 4,-4.4408921e-14 C3.69363839,-4.4408921e-14 3.42857143,0.257588613 3.42857143,0.575340271 L3.42857143,3.42857143 L0.575340271,3.42857143 C0.248196602,3.42857143 -6.48913389e-14,3.68440871 -6.48720145e-14,4 C-6.48532553e-14,4.30636161 0.257588613,4.57142857 0.575340271,4.57142857 L3.42857143,4.57142857 L3.42857143,7.42465973 C3.42857143,7.7518034 3.68440871,8 4,8 C4.30636161,8 4.57142857,7.74241139 4.57142857,7.42465973 L4.57142857,4.57142857 L7.42465973,4.57142857 C7.7518034,4.57142857 8,4.31559129 8,4 C8,3.69363839 7.74241139,3.42857143 7.42465973,3.42857143 L4.57142857,3.42857143 Z" id="Combined-Shape"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>未开始</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="平台组件规范+部分组件视觉" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="A4" transform="translate(-56.000000, -216.000000)" fill="#96D1FA">
+            <path d="M56,217.995089 C56,216.893232 56.8926228,216 57.9950893,216 L72.0049107,216 C73.1067681,216 74,216.892623 74,217.995089 L74,232.004911 C74,233.106768 73.1073772,234 72.0049107,234 L57.9950893,234 C56.8932319,234 56,233.107377 56,232.004911 L56,217.995089 Z M58,219.006845 L58,230.993155 C58,231.550051 58.4507801,232 59.0068455,232 L70.9931545,232 C71.5500512,232 72,231.54922 72,230.993155 L72,219.006845 C72,218.449949 71.5492199,218 70.9931545,218 L59.0068455,218 C58.4499488,218 58,218.45078 58,219.006845 Z" id="未开始"></path>
+        </g>
+    </g>
+</svg>

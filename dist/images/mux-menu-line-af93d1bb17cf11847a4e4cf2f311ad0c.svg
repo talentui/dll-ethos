@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="11px" viewBox="0 0 14 11" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 42 (36781) - http://www.bohemiancoding.com/sketch -->
+    <title>Combined Shape</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="菜单设置" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="交互" transform="translate(-298.000000, -109.000000)" fill="#C2CBD1">
+            <g id="Group" transform="translate(108.000000, 104.000000)">
+                <path d="M190,5.5 C190,5.22385763 190.219907,5 190.498267,5 L203.501733,5 C203.776918,5 204,5.23193359 204,5.5 C204,5.77614237 203.780093,6 203.501733,6 L190.498267,6 C190.223082,6 190,5.76806641 190,5.5 Z M190,10.5 C190,10.2238576 190.219907,10 190.498267,10 L203.501733,10 C203.776918,10 204,10.2319336 204,10.5 C204,10.7761424 203.780093,11 203.501733,11 L190.498267,11 C190.223082,11 190,10.7680664 190,10.5 Z M190,15.5 C190,15.2238576 190.219907,15 190.498267,15 L203.501733,15 C203.776918,15 204,15.2319336 204,15.5 C204,15.7761424 203.780093,16 203.501733,16 L190.498267,16 C190.223082,16 190,15.7680664 190,15.5 Z" id="Combined-Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>
