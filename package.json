@@ -1,6 +1,6 @@
 {
   "name": "@talentui/dll-ethos",
-  "version": "1.0.6",
+  "version": "1.0.9",
   "main": "index.js",
   "license": "MIT",
   "dependencies": {
@@ -35,6 +35,7 @@
     "@beisen/tree": "^0.1.88",
     "@beisen/upaas-portal-common-css": "^1.0.1",
     "@beisen/user-selector": "^0.2.0",
+    "@talentui/dll-parser": "^1.0.2",
     "@talentui/dll-react": "^1.0.0",
     "@talentui/dll-webpack-config": "^1.0.1",
     "css-loader": "^0.28.7",
